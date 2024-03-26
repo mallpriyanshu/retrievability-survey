@@ -3,7 +3,9 @@
 
 GitHub repository associated with our ECIR-2024 paper titled 'Exploring the Nexus Between Retrievability and Query Generation Strategies'. This repository serves as a resource for accessing the research paper, related code, and data.
 
-Citaition Information
+Simulated Queries : http://u.pc.cd/QjzrtalK
+
+## Citaition Information
 ```
 @InProceedings{10.1007/978-3-031-56066-8_16,
 author="Sinha, Aman
