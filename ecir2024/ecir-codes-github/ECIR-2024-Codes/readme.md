@@ -5,7 +5,7 @@ GitHub repository associated with our ECIR-2024 paper titled 'Exploring the Nexu
 
 Simulated Queries : http://u.pc.cd/QjzrtalK
 
-## Citaition Information
+## Citation Information
 ```
 @InProceedings{10.1007/978-3-031-56066-8_16,
 author="Sinha, Aman
